@@ -16,3 +16,4 @@ else
     done
   fi
 fi
+# Optimized query logic
